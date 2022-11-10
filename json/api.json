@@ -1,0 +1,74 @@
+[
+    {
+      "precio": 400,
+      "id": 1,
+      "title": "Remera 1",
+      "stock": 6,
+      "url": "https://via.placeholder.com/600/92c952",
+      "thumbnailUrl": "https://loremflickr.com/320/240?lock="
+    },
+    {
+      "precio": 200,
+      "id": 2,
+      "title": "Remera 2",
+      "stock": 9,
+      "url": "https://via.placeholder.com/600/771796",
+      "thumbnailUrl": "https://loremflickr.com/320/240?lock="
+    },
+    {
+      "precio": 200,
+      "id": 3,
+      "title": "Remera 3",
+      "stock": 4,
+      "url": "https://via.placeholder.com/600/24f355",
+      "thumbnailUrl": "https://loremflickr.com/320/240?lock="
+    },
+    {
+      "precio": 550,
+      "id": 4,
+      "title": "Remera 4",
+      "stock": 7,
+      "url": "https://via.placeholder.com/600/d32776",
+      "thumbnailUrl": "https://loremflickr.com/320/240?lock="
+    },
+    {
+      "precio": 600,
+      "id": 5,
+      "title": "Remera 5",
+      "stock": 3,
+      "url": "https://via.placeholder.com/600/f66b97",
+      "thumbnailUrl": "https://loremflickr.com/320/240?lock="
+    },
+    {
+      "precio": 700,
+      "id": 6,
+      "title": "Remera 6",
+      "stock": 6,
+      "url": "https://via.placeholder.com/600/56a8c2",
+      "thumbnailUrl": "https://loremflickr.com/320/240?lock="
+    },
+    {
+      "precio": 500,
+      "id": 7,
+      "title": "Remera 7",
+      "stock": 5,
+      "url": "https://via.placeholder.com/600/b0f7cc",
+      "thumbnailUrl": "https://loremflickr.com/320/240?lock="
+    },
+    {
+      "precio": 400,
+      "id": 8,
+      "title": "Remera 8",
+      "stock": 4,
+      "url": "https://via.placeholder.com/600/54176f",
+      "thumbnailUrl": "https://loremflickr.com/320/240?lock="
+    },
+    {
+      "precio": 450,
+      "id": 9,
+      "title": "Remera 9",
+      "stock": 6,
+      "url": "https://via.placeholder.com/600/51aa97",
+      "thumbnailUrl": "https://loremflickr.com/320/240?lock="
+    }
+]
